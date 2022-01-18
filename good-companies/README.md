@@ -8,8 +8,13 @@ Referal: https://bunny.net?ref=9ne88sixus
 Bunny CDN just has a really impressive feature set; with simple billing, best value CDN ive seen... its like credit lasts forever O.O
 
 ## Hetzner
-https://www.hetzner.com/
-I <3 Hetty, wonderful staff, wonderful tech; dedicated here only! (pls expand to Australia Hetty, pwease?)
+Dedicated non referal: https://www.hetzner.com/
+
+Cloud no referal: https://hetzner.cloud
+
+cloud, referal: https://hetzner.cloud/?ref=FmJNtfuc8iNi
+
+Hetty are great, wonderful staff, wonderful tech; 
 
 ## GoGetSSL
 https://gogetssl.com
