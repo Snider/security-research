@@ -16,4 +16,4 @@ Are you fucking joking me? i sear it was to get me all "upity" to be a "bad cust
 
 ### SecTigo
 
-Trash; if ixplain why i'll get them in trouble. Dont use.
+Trash; if explain why i'll get them in trouble. Dont use, its Comodo gutted out to sell automated API access and bad support agents (unless you mail enterprise... then its a diffeent story)
