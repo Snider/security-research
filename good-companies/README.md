@@ -13,3 +13,9 @@ https://grammarly.com Go looking for voucher codes, they exsist, Use this every 
 
 ## ProtonMail
 https://protonmail.com/ OpenPGP email service in a swizz mountin; all mail encrypted, bring some qwurks but very good.
+
+## Docker Inc
+https://www.docker.com/ At a time where the sugbject of my work was frowned on, Docker looked at us, what i wanted to do, and gave us OpenSource support... I dont have a bad word to say about them, just prior to locking down they added lots of "unrestricted namespaces" for OpenSource, and im thankful they took us on.
+
+## GitLab
+https://gitlab.com GitLab is great for DevOps; development i still think GitHub has the edge... but for profesional use, GitLab is a solid choice, with a different feature set that suits DevOps vs Coding
