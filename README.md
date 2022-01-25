@@ -1,21 +1,31 @@
-# Security Research
+# Words
 
-Hi, I am Snider, A Open Source security Coder & by consequence of experience, a researcher who; Tired of bad I.T.
+Ok, it's been interesting gauging the response to ideas(then projects) on Twitter; I got a good idea of direction now from twitter and talks etc.
 
-Here is honest; The things I write here is factual and for education, knowledge or awareness; with being mindful of security implications of findings (following disclosure grace periods)
+I'm going back to the new GUI / VPN. If you are interested in helping, then the projects talked about recently are some of the things we can do on top of the new network I'm mainly going to work on now; I'm finding it hard to explain the system; our new network, so more accessible to just explain it in code. 
 
-The contents of this repo are my discoveries and thoughts, with supporting evidence.
+The other projects on GitHub are kinda "out there" for taking as a pet project. Eventually, the things I'm interested in doing have been discussed/added... I will get around to it; even `4hash/` so, in RFC style... 
 
-The intention is accountability to Corporations entrusted to secure us, who fail to do so.
+Kind of leaving the floor open for people to get creative; I got work to do, can't be doing all this dilly-dallying getting interest.... so leaving this here; if you want to help or work on a thing, we are open to all, ask to join the community team(or email darbs@lt.hn|snider@lt.hn) alongside an item you want to change (on GitHub PR/code/self-actionable-plan/bored-brain-needing-things-to-do-and-emails-patches :innocent: :no_mouth: )
 
-I welcome feedback or enlightenment.
+snider@lt.hn my email OpenPGP key is on keyservers, also listed on GitHub and pasted below; best place to catch me is GitHub, make an issue, or talk to me in code :slight_smile:
 
-Snider@lt.hn
+GitHub will list people you can contact ( darbs@lt.hn will add his when he can ) (make a PR if you are not there/send me yours)... https://github.com/letheanVPN/blockchain/tree/main/openpgp. 
 
----------- NOT INCLUDED -------------
-
-Salt Pack
 ```
-BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zkYz9mdM kHut4Cf98y3Xp7Y HWiitqBcNchwKd7 zJZ08wjkfFCIxUQ 9p7X9NsOmIt7Vhe DM6NeFx0sHQ3N48 hh9lOOAW3Gc0OrQ ovmaEyzUrsG5bvn 2gg5xlUWMxYVqWC V8od0pNnYFfxMof Tr0DRtNiWpz2jlh m4mTOi31nLT0IlB pJN6sUChhOjz4Do kfML4HAahSPijkt qUPtsc1BOrVA71B pS2lBdqINuz2iB0 IjLO2ckU5ORJt5k xUAsK4kW42WBgZV ouF2oq6CqWjnfVu xODTUbYiKtTh90R iuGnKG0I3a473Em RrwJBwB0FWK3nsK 122xtNCO7vZN0Mc Asf9FJ4Cv60nGqk 2wvXXyhGFs3vRYq 6GcW8HUvAn4TkB4 rYoVJRiJAEfOhEp pbMKLhnD2fNaCDY H21dYPxBtTibTTz xuPgcrmPR3BkO09 9Qxznw6WOW7kW2P 7jD6tkbeVyBcL97 zIJ8ygxUqOdErwS bj0C4COIMF3pMzY 9le06QuoQqpI2kz TSVsybLUnP7iewl JOqGOHfXsV7K9wq sLuVj3OQUOyJKSd S4OemKowfq1jaNL rLR7dHDLGy3P3BV Gs8beGOfY6zjb9T r0ODnc4nlpsk2dg Ol4fmNOfW1PhEoW sBBTY4X8mE5W0jJ 4dzuX39kxwpxgRb RQlVFpWsmXaeUSN 3YY6duSNnLZ9h56 rxCCkCelgBKNZJo btX9Y24JT2iMfs9 c84FxpANdLfIB0l TojLPOg1JPhsoZq XHwpiiFcSK3fJni h6N48iaMZ2q5L0W Iebc1quQLnSnRAE kXtZmcbZ7AHLz2Q JU1Y9VmHoiRgqIw CzUQk2RDgfThz4l ldYWye1HpUfB6xL MNlnWkmQ9WlYFvB 93uFblMKX3Ip5MV 98lgnaoWnX3x0pu . END KEYBASE SALTPACK SIGNED MESSAGE.
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: 54F0 8396 E7D9 7192 8BAD  3EC5 CB42 CEC2 399C C61C
+Comment: snider@lt.hn <snider@lt.hn>
 
+xjMEYeM5lBYJKwYBBAHaRw8BAQdAoZa9brt0MZ9oGVdwHqAcbS80TybauqfCxZXR
+wosjlA/NG3NuaWRlckBsdC5obiA8c25pZGVyQGx0LmhuPsKPBBAWCgAgBQJh4zmU
+BgsJBwgDAgQVCAoCBBYCAQACGQECGwMCHgEAIQkQy0LOwjmcxhwWIQRU8IOW59lx
+koutPsXLQs7COZzGHMeRAQCJhNn/HYUDW0O92tME5+F1XnrpANpfAcRl0vsOB2jk
+/AEAvKVkmP1Zg8rRHgCv+TfMaAilSHvGqpZ7gBkc4CTxJg7OOARh4zmUEgorBgEE
+AZdVAQUBAQdA5JRbnmn7syveUayN+I0ln+fOsNuWcloQEKj/KK/qGkcDAQgHwngE
+GBYIAAkFAmHjOZQCGwwAIQkQy0LOwjmcxhwWIQRU8IOW59lxkoutPsXLQs7COZzG
+HIAGAQC0HIynse9yS4wqI4LHUwvuFAfinyPi5p40NpNw4g0mkwEAwZcax4s9TZJe
+6TV5Rzhh8L5GPEm0Hk3NbN8LjzKZWwE=
+=8/eF
+-----END PGP PUBLIC KEY BLOCK-----
 ```
